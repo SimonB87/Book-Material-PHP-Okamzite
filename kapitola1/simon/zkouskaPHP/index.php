@@ -7,11 +7,14 @@
     <title>Ahoj Světě | CS</title>
 </head>
 <body>
-    <h1>
+    <p>
         <?php
-            echo "Ahoj, světe."
+            $maPromenna = "Ahoj, světe...";
+            echo $maPromenna;
+            echo "<br>";
+            $nazdar = "Dobrý den.";
+            echo $nazdar;
         ?>
-    
-    </h1>
+    </p>
 </body>
 </html>
