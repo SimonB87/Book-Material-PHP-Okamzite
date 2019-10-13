@@ -14,3 +14,4 @@ try {
 } catch (PDOException $e) {
   echo $e->getMessage();
 }
+//censored user infos
